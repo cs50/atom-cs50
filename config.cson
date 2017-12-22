@@ -1,0 +1,15 @@
+"*":
+  core:
+    disabledPackages: [
+      "autocomplete-atom-api"
+      "autocomplete-css"
+      "autocomplete-html"
+      "autocomplete-plus"
+      "autocomplete-snippets"
+      "background-tips"
+    ]
+    telemetryConsent: "no"
+  "line-ending-selector":
+    defaultLineEnding: "LF"
+  welcome:
+    showOnStartup: false
